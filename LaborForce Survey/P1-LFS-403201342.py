@@ -1,4 +1,6 @@
-# بخش اول :رسم نمودار خطی متغیر های خواسته شده
+# بخش اول :رسم نمودار خطی متغیر های خواسته شده 
+
+
 import os
 import pandas as pd
 import matplotlib.pyplot as plt
